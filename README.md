@@ -8,6 +8,9 @@ There are two ways to play the game.
 2). Human vs AI player
                                     
    Here, I have prefered Human Vs AI player using minimax algorithm(for AI player)
+   
+   ![capture](https://user-images.githubusercontent.com/36665975/44305514-e8259880-a396-11e8-803c-faaf9529b4b8.PNG)
+
 
 
 Source: Beau Carnes(freeCodeCamp).
